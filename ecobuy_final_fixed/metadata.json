@@ -1,0 +1,6 @@
+
+{
+  "name": "EcoBuy - Sustainable Shopping Assistant",
+  "description": "An AI-powered tool that analyzes product URLs to calculate carbon footprints and suggests eco-friendly alternatives, complete with rewards and a global leaderboard.",
+  "requestFramePermissions": []
+}
